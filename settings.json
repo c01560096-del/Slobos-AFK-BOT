@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vipmcnetwork.aternos.me",
-    "port": 60802,
-    "version": "1.21.7"
+    "ip": "cckmc.aternos.me",
+    "port": 52457,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
